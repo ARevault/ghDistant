@@ -1,3 +1,4 @@
+//Le bon commentaire
 Constantes {
     constante HELLO_WORLD = « Hello everyone »
 }
