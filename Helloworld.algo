@@ -5,7 +5,7 @@ Algo HelloWorld {
         Mettre la dimension à 800, 200
         //aligner a gauche
         Configurer la fenetre sur ‘exitOnClose’
-        //Couleur de fond vert
+        //Couleur de fond cyan
         // Création du label de texte
         Créer un label avec du texte centré et contenant le texte HELLO_WORLD
         Créer la couleur jaune
